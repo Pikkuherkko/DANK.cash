@@ -10,6 +10,9 @@ Works currently only on testnet.
 ## Tools used
 
 -Next.js
+
 -Starknet.js
+
 -Starknet React
+
 -TailwindCSS
