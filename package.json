@@ -11,11 +11,14 @@
   "dependencies": {
     "@next/font": "13.1.2",
     "@starknet-react/core": "^0.14.8",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.0.3",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
     "next": "13.1.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-spinners": "^0.13.7",
     "starknet": "^4.17.1"
   },
   "devDependencies": {
